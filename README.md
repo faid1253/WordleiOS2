@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [NOTHING] List anything else that you can get done to improve the app functionality!
+- [X] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 https://www.loom.com/share/c2df2ea9b8904932bc70e1c6c3fbad71?sid=5d1cbafd-d000-4e11-8786-36eec3870b86
